@@ -1,0 +1,21 @@
+.emote-vcenter {
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img.emote-logo {
+    width: 64pt;
+}
+
+.emote-description {
+    font-weight: 200;
+}
+
+.emote-screenshot {
+    text-align: right;
+}
+
+.app-store-button {
+    width: 128pt;
+}
